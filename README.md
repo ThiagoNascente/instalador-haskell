@@ -310,6 +310,6 @@ sudo chmod +x instalar-haskell.sh
 5. executar
 
 ```bash
-sudo ./instalar.haskell.sh aluno
+sudo ./instalar-haskell.sh aluno
 ```
 
